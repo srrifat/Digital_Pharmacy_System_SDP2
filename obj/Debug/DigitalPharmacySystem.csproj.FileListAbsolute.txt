@@ -1,0 +1,130 @@
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.exe.config
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.exe
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.pdb
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.AssemblyReference.cache
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.SuggestedBindingRedirects.cache
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Form1.resources
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Properties.Resources.resources
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.GenerateResource.cache
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.CoreCompileInputs.cache
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.exe
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.pdb
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\Guna.UI2.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.CopyComplete
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Adminstrator.resources
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_Dashbord.resources
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.User_AddUser.resources
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\Google.Protobuf.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\MySql.Data.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Buffers.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Memory.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Numerics.Vectors.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\Ubiety.Dns.Core.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\ZstdNet.dll
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\Google.Protobuf.pdb
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\Google.Protobuf.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\MySql.Data.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Buffers.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Memory.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Numerics.Vectors.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BUBT\CSE 200\Project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_ViewUser.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.exe.config
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.exe
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.pdb
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\Google.Protobuf.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\Guna.UI2.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\MySql.Data.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Buffers.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Memory.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Numerics.Vectors.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\Ubiety.Dns.Core.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\ZstdNet.dll
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\Google.Protobuf.pdb
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\Google.Protobuf.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\MySql.Data.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Buffers.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Memory.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Numerics.Vectors.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.AssemblyReference.cache
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.SuggestedBindingRedirects.cache
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Adminstrator.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_Dashbord.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.User_AddUser.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Form1.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Properties.Resources.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.GenerateResource.cache
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.CoreCompileInputs.cache
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.CopyComplete
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.exe
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.pdb
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Employee.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_ViewUser.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_profile.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_Dashbord.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_AddMedicine.resources
+E:\BUBT\CSE 200\Preview\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_ViewMedicines.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.exe.config
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.exe
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\DigitalPharmacySystem.pdb
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\Google.Protobuf.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\Guna.UI2.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\MySql.Data.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Buffers.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Memory.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Numerics.Vectors.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\Ubiety.Dns.Core.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\ZstdNet.dll
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\Google.Protobuf.pdb
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\Google.Protobuf.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\MySql.Data.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Buffers.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Memory.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Numerics.Vectors.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.AssemblyReference.cache
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.SuggestedBindingRedirects.cache
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Adminstrator.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_Dashbord.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_profile.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.UC_ViewUser.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.AdminstratorUC.User_AddUser.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Employee.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_AddMedicine.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_Dashbord.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_ViewMedicines.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Form1.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.Properties.Resources.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.GenerateResource.cache
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.CoreCompileInputs.cache
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.csproj.CopyComplete
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.exe
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.pdb
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_UpdateMedicine.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_MedicineValidityCheck.resources
+E:\BUBT\CSE 200\Main project\DigitalPharmacySystem\obj\Debug\DigitalPharmacySystem.EmployeeUC.UC_E_SellMedicine.resources
